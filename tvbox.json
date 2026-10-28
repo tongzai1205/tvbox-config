@@ -1,0 +1,16 @@
+{
+  "urls": [
+    {
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/wzh15802/tvbox/main/tv.json",
+      "name": "wzh15802 多仓(64源)"
+    },
+    {
+      "url": "https://www.imwzh.com/tv.json",
+      "name": "imwzh 单仓"
+    },
+    {
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json",
+      "name": "高天流云 单仓(jar)"
+    }
+  ]
+}
